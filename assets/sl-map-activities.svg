@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <defs>
+    <filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1200" height="760" rx="40" fill="#f8f1e7"/>
+  <text x="70" y="92" font-family="Georgia, serif" font-size="54" fill="#102b3d">Sri Lanka at a glance</text>
+  <text x="70" y="132" font-family="Arial, sans-serif" font-size="20" fill="#66737a">A simple way to see what different parts of the island can offer.</text>
+  <g transform="translate(455 70) scale(.82)" filter="url(#s)">
+    <path d="M250 10 C190 52 169 119 173 178 C177 235 138 271 121 326 C104 381 120 435 96 487 C72 539 53 595 78 651 C101 701 151 739 188 782 C218 817 237 863 270 892 C305 924 350 936 392 916 C435 896 459 851 482 810 C508 765 544 726 567 679 C589 635 603 579 592 530 C580 474 545 438 516 394 C489 352 468 304 454 254 C438 199 416 146 378 105 C339 63 297 35 250 10Z" fill="#c79b52"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#102b3d">
+    <path d="M655 605 C624 567 634 524 672 491 C711 457 726 426 734 391" fill="none" stroke="#1c628d" stroke-width="6" stroke-linecap="round" stroke-dasharray="12 12"/>
+    <circle cx="654" cy="605" r="10" fill="#1c628d"/><text x="676" y="611">Colombo · city stays, food, arrival ease</text>
+    <circle cx="733" cy="391" r="10" fill="#1c628d"/><text x="755" y="397">Galle / Mirissa · beach days, whale watching</text>
+    <circle cx="736" cy="299" r="10" fill="#1c628d"/><text x="758" y="305">Yala · safari, wildlife, jeep adventures</text>
+    <circle cx="818" cy="245" r="10" fill="#1c628d"/><text x="840" y="251">Ella · scenic rail, hikes, waterfalls</text>
+    <circle cx="777" cy="168" r="10" fill="#1c628d"/><text x="799" y="174">Kandy · temples, lake, living culture</text>
+    <circle cx="820" cy="128" r="10" fill="#1c628d"/><text x="842" y="134">Sigiriya · rock fortress, history, views</text>
+  </g>
+  <g transform="translate(68 215)" font-family="Arial, sans-serif" fill="#102b3d">
+    <g transform="translate(0 0)"><circle cx="14" cy="14" r="14" fill="#1c628d" opacity=".12"/><text x="42" y="20" font-size="18" font-weight="700">Culture</text><text x="42" y="44" font-size="16" fill="#5b666c">Ancient cities, temples and heritage routes</text></g>
+    <g transform="translate(0 96)"><circle cx="14" cy="14" r="14" fill="#1c628d" opacity=".12"/><text x="42" y="20" font-size="18" font-weight="700">Tea Country</text><text x="42" y="44" font-size="16" fill="#5b666c">Cool weather, estates and scenic train journeys</text></g>
+    <g transform="translate(0 192)"><circle cx="14" cy="14" r="14" fill="#1c628d" opacity=".12"/><text x="42" y="20" font-size="18" font-weight="700">Wildlife</text><text x="42" y="44" font-size="16" fill="#5b666c">National parks, elephants and nature stays</text></g>
+    <g transform="translate(0 288)"><circle cx="14" cy="14" r="14" fill="#1c628d" opacity=".12"/><text x="42" y="20" font-size="18" font-weight="700">Coast</text><text x="42" y="44" font-size="16" fill="#5b666c">Surf towns, luxury villas and easy beach time</text></g>
+    <g transform="translate(0 384)"><circle cx="14" cy="14" r="14" fill="#1c628d" opacity=".12"/><text x="42" y="20" font-size="18" font-weight="700">Food & Local Life</text><text x="42" y="44" font-size="16" fill="#5b666c">Markets, roadside stops and everyday Sri Lanka</text></g>
+  </g>
+</svg>
